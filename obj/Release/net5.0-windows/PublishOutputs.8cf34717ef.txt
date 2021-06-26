@@ -1,0 +1,5 @@
+C:\Users\ujipe\Desktop\ProjetoIngles\MenuDeForms.exe
+C:\Users\ujipe\Desktop\ProjetoIngles\MenuDeForms.dll
+C:\Users\ujipe\Desktop\ProjetoIngles\MenuDeForms.deps.json
+C:\Users\ujipe\Desktop\ProjetoIngles\MenuDeForms.runtimeconfig.json
+C:\Users\ujipe\Desktop\ProjetoIngles\MenuDeForms.pdb

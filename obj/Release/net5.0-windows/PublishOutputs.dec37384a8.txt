@@ -1,0 +1,5 @@
+C:\Users\ujipe\Desktop\Nova pasta\MenuDeForms.exe
+C:\Users\ujipe\Desktop\Nova pasta\MenuDeForms.dll
+C:\Users\ujipe\Desktop\Nova pasta\MenuDeForms.deps.json
+C:\Users\ujipe\Desktop\Nova pasta\MenuDeForms.runtimeconfig.json
+C:\Users\ujipe\Desktop\Nova pasta\MenuDeForms.pdb
